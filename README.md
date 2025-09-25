@@ -38,11 +38,6 @@ The Advanced Web Penetration Testing Tool is a comprehensive security assessment
 ### Installation Steps
 
 1. **Clone or Download the Tool**
-   ```bash
-   git clone https://github.com/your-repo/advanced-pentest-tool.git
-   cd advanced-pentest-tool
-   ```
-
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
